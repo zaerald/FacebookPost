@@ -1,5 +1,5 @@
 # Facebook Post
-Autmoate posting on facebook
+Automate posting on facebook
 
 ### Note: Download and edit the source code:
 - ```email``` - change the value to your email
