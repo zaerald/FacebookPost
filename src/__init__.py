@@ -25,8 +25,10 @@ password_field.submit()
 browser.find_element_by_class_name('_559p').click()
 
 status = browser.switch_to.active_element
+time.sleep(1)
 status.send_keys(post)
 browser.find_element_by_css_selector('button._4jy0._4jy3._4jy1').click()
+time.sleep(3)
 browser.find_element_by_css_selector('button._1mf7._4jy0._4jy3').click()
 
 time.sleep(5)
